@@ -1,3 +1,2 @@
-²ÉÓÃwebpack´ò°ü¹¤¾ß Ê¹ÓÃvue+element uiÊµÏÖ
-使用vue.js+element ui框架
+﻿使用vue.js+element ui框架
 webpack打包工具打包
