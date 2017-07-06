@@ -1,0 +1,108 @@
+[
+	{
+		"url":"http://dianlan.nos-eastchina1.126.net/%E9%98%B2%E7%81%AB%E7%94%B5%E7%BC%861.png",
+		"to":"/item",
+		"name":"Cable",
+		"text":"450 / 750V mica tape \r\n + XLPE insulated power cable",
+		"item":{
+			"text":[
+				{
+					"title":"Application",
+					"msg":"The cable is used for high-rise buildings, hotels, hospitals, subways and other public places in the fire extinguishing system, sprinkler, control panel, and export lights and other wiring cables."
+				},
+				{
+					"title":"Standard",
+					"msg":"Designed to comply with BS 7211."
+				},
+				{
+					"title":"Rated voltage",
+					"msg":"450 / 750V"
+				},
+				{
+					"title":"Cable description",
+					"msg":"Conductor: plain annealed copper wire, stranded in accordance with IEC 60228 class 2.Fire layer; mica tapeInsulation: BS 6652 Standard Part 6.1, Thermoplastics, Low Smoke Halogenated Compounds LTS3 (according to BS 7655: Section 2.6, Plastics, Low Smoke Halogenated Compounds SW2-SW4 Type."
+				}
+			],
+			"table":[
+				{
+					"title":"Electrical characteristics",
+					"msg":[
+						{
+							"left":"Dielectric test",
+							"right":"2500 V r.m.s. x 5 '(core / core)"
+						},
+						{
+							"left":"Insulation resistance",
+							"right":"20 MΩ x km (at 20 ° C)"
+						},
+						{
+							"left":"Short circuit temperature",
+							"right":"250 °C"
+						}
+					]
+				},
+				{
+					"title":"Physical and thermal properties",
+					"msg":[
+						{
+							"left":"Operating temperature range (in fixed condition)",
+							"right":"- 30 ° C - + 90 ° C"
+						},
+						{
+							"left":"Installation temperature range (motion state)",
+							"right":"- 20 ° C - + 50 ° C"
+						},
+						{
+							"left":"Minimum bending radius",
+							"right":"6 × OD"
+						}
+					]
+				},
+				{
+					"title":"Electrical performance",
+					"msg":[
+						{
+							"left":"Conductor operating temperature",
+							"right":"90 ° C"
+						},
+						{
+							"left":"Ambient temperature",
+							"right":"30 ° C"
+						}
+					]
+				}
+			]
+		}
+	},
+	{
+		"url":"http://dianlan.nos-eastchina1.126.net/%E9%98%B2%E7%81%AB%E7%94%B5%E7%BC%862.png",
+		"to":"./battery.html",
+		"name":"Cable",
+		"text":"300 / 500V mica tape \r\n + XLPE insulated"
+	},
+	{
+		"url":"http://dianlan.nos-eastchina1.126.net/%E9%98%B2%E7%81%AB%E7%94%B5%E7%BC%863.png",
+		"to":"./inverter.html",
+		"name":"Cable",
+		"text":"300 / 500V silicone rubber insulated control cable"
+	},
+	{
+		"url":"http://dianlan.nos-eastchina1.126.net/%E9%98%B2%E7%81%AB%E7%94%B5%E7%BC%864.png",
+		"to":"./industrialiot.html",
+		"name":"Cable ",
+		"text":"450 / 750V advanced control cable"
+	},
+	{
+		"url":"http://dianlan.nos-eastchina1.126.net/%E9%98%B2%E7%81%AB%E7%94%B5%E7%BC%865.png",
+		"to":"./industrialiot.html",
+		"name":"Cable ",
+		"text":"450 / 750V Advanced & Total Shield Control Cable"
+	},
+	{
+		"url":"http://dianlan.nos-eastchina1.126.net/%E9%98%B2%E7%81%AB%E7%94%B5%E7%BC%866.png",
+		"to":"./industrialiot.html",
+		"name":"Cable ",
+		"text":"600 / 1000V advanced \r\n flexible control cable"
+	}
+	
+]

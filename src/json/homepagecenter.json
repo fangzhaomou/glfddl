@@ -1,0 +1,27 @@
+[
+	{
+		"url":"http://dianlan.nos-eastchina1.126.net/%E7%94%B5%E7%BC%86.png",
+		"to":"./cable.html",
+		"name":"Cable",
+		"text":"Whatever your project and wherever it is in the world Cables china will ensure that everything runs smoothly."
+	},
+	{
+		"url":"http://dianlan.nos-eastchina1.126.net/%E7%94%B5%E6%B1%A0.png",
+		"to":"./battery.html",
+		"name":"Battery",
+		"text":"Durable, quality worry. The battery to force, for your life intensified force."
+	},
+	{
+		"url":"http://dianlan.nos-eastchina1.126.net/%E5%BA%94%E5%8F%98%E5%99%A8.png",
+		"to":"./inverter.html",
+		"name":"Responder",
+		"text":"Industrial networking can significantly improve manufacturing efficiency, improve product quality, reduce product costs and resource consumption."
+	},
+	{
+		"url":"http://dianlan.nos-eastchina1.126.net/%E5%B7%A5%E4%B8%9A%E7%89%A9%E8%81%94%E7%BD%91%E5%B0%8F.png",
+		"to":"./industrialiot.html",
+		"name":"Industrial ",
+		"text":"The strainer is a device that pastes a strain resistor patch made of platinum resistance wire."
+	}
+	
+]

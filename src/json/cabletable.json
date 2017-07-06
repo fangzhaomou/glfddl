@@ -1,0 +1,49 @@
+[
+	{
+		"title":"Electrical characteristics",
+		"msg":[
+			{
+				"left":"Dielectric test",
+				"right":"2500 V r.m.s. x 5 '(core / core)"
+			},
+			{
+				"left":"Insulation resistance",
+				"right":"20 MΩ x km (at 20 ° C)"
+			},
+			{
+				"left":"Short circuit temperature",
+				"right":"250 °C"
+			}
+		]
+	},
+	{
+		"title":"Physical and thermal properties",
+		"msg":[
+			{
+				"left":"Operating temperature range (in fixed condition)",
+				"right":"- 30 ° C - + 90 ° C"
+			},
+			{
+				"left":"Installation temperature range (motion state)",
+				"right":"- 20 ° C - + 50 ° C"
+			},
+			{
+				"left":"Minimum bending radius",
+				"right":"6 × OD"
+			}
+		]
+	},
+	{
+		"title":"Electrical performance",
+		"msg":[
+			{
+				"left":"Conductor operating temperature",
+				"right":"90 ° C"
+			},
+			{
+				"left":"Ambient temperature",
+				"right":"30 ° C"
+			}
+		]
+	}
+]

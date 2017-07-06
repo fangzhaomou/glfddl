@@ -1,0 +1,30 @@
+[
+	{
+		"name":"Home",
+		"url":"./home.html"
+	},
+	{
+		"name":"Cable",
+		"url":"./cable.html"
+	},
+	{
+		"name":"Battery",
+		"url":"./battery.html"
+	},
+	{
+		"name":"Inverter",
+		"url":"./inverter.html"
+	},
+	{
+		"name":"Industrial IOT System",
+		"url":"./industrialiot.html"
+	},
+	{
+		"name":"Projects",
+		"url":"./projects.html"
+	},
+	{
+		"name":"Contact us",
+		"url":"./contactus.html"
+	}
+]
